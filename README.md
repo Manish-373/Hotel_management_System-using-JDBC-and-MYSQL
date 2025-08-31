@@ -58,23 +58,6 @@ CREATE TABLE reservation (
 );
 ```
 
-### **Step 3: Insert Sample Data**
-
-```sql
-INSERT INTO reservation (Guest_name, Room_number, Contact_number)
-VALUES 
-('Manish', 101, '1234567890'),
-('Yash', 203, '7894561230'),
-('Priya', 457, '9638527410'),
-('Viraj', 520, '1245789633'),
-('Aaradhya', 881, '9635714280');
-```
-
-### **Step 4: Verify Data**
-
-```sql
-SELECT * FROM reservation;
-```
 
 ---
 
