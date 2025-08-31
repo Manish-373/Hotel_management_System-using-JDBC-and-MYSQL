@@ -1,4 +1,3 @@
-Here’s the reformatted version so you can **copy it all at once**:
 
 ---
 
@@ -87,5 +86,4 @@ The **Hotel Reservation System** can be used in:
 
 ---
 
-Would you like me to also create this as a **PDF file (ready to submit as a project synopsis)**?
-Or should I generate a **README.md file for GitHub?**
+
